@@ -16,7 +16,6 @@ def getValidStation(prompt: str) -> str:
             print('Invalid station')
     return station
 
-
 graphAll(stations)
 
 while True:
